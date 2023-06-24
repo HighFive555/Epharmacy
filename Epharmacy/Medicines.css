@@ -1,0 +1,106 @@
+﻿body {
+    background-color: #587BBF;
+}
+
+#BigCont {
+    background-color: white;
+    height: 150%;
+    width: 90%;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    opacity: 80%;
+    border-radius: 10px;
+}
+
+#MedGV {
+    position: relative;
+    left: 10%;
+    top: 0px;
+    height: 80px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#MMan {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #587BBF;
+    height: 50px;
+    border-radius: 5px;
+    width: 150px;
+}
+
+#Mtype {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #587BBF;
+    height: 30px;
+    border-radius: 5px;
+    width: 150px;
+}
+
+button:hover {
+    background-color: skyblue;
+}
+
+#Ti {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#587BBF;
+    position: relative;
+    left: 40%;
+    margin: auto;
+    font-weight: bold;
+}
+
+#I {
+    background-image: url(Img/download1-removebg-preview.png);
+    background-size: 98px;
+    height: 64px;
+    width: 88px;
+    position: relative;
+    left: 45.5%;
+}
+
+input {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #587BBF;
+    border-radius: 5px;
+}
+
+#AddBtn {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    color: white;
+    border-radius: 10px;
+    margin: auto;
+    border: none;
+}
+
+button {
+    height: 30px;
+    width: 100px;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    margin: auto;
+}
+
+#BtDiv {
+    position: relative;
+    left: 37%;
+}
+
+#Bloc1 {
+    position: relative;
+    left: 0%;
+    top: 0px;
+    width: 1000px;
+    margin-top: 0px;
+    margin: auto;
+}
+
+
+
+
+
+           

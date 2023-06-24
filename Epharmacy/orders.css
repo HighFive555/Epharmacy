@@ -1,0 +1,71 @@
+﻿body {
+    background-color: skyblue;
+}
+
+#BigCont {
+    background-color: white;
+    height: 85%;
+    width: 95%;
+    position: absolute;
+    top: 12%;
+    left: 2.5%;
+    opacity: 90%;
+    border-radius: 10px;
+}
+
+#Ti {
+    font-family: 'Proxima Nova ', sans-serif;
+    color: darkblue;
+    position: relative;
+    left: 8%;
+    top: 10%;
+}
+
+#I {
+    background-image: url('img/cargo.png');
+    background-size: contain;
+    height: 60px;
+    width: 60px;
+    position: relative;
+    left: 2%;
+}
+
+#BtDiv {
+    position: absolute;
+    bottom: 65px;
+    right: 75px;
+}
+
+button:hover {
+    background-color: skyblue;
+}
+
+button {
+    height: 30px;
+    width: 100px;
+    color: white;
+    background-color: mediumblue;
+    border-radius: 10px;
+    border: none;
+    margin: auto;
+}
+
+#MedGV {
+    position: relative;
+    left: 10%;
+    top: 0px;
+    height: 80px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#AddBtn {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    color: white;
+    background-color: mediumblue;
+    border-radius: 10px;
+    margin: auto;
+    border: none;
+}
